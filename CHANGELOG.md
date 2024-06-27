@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/huang-julien/applicationinsights-esm/compare/v0.0.4...v0.0.5)
+
+### 🩹 Fixes
+
+- Revert 2.9.5 ([2a4d40c](https://github.com/huang-julien/applicationinsights-esm/commit/2a4d40c))
+
+### ❤️ Contributors
+
+- Julien Huang ([@huang-julien](http://github.com/huang-julien))
+
 ## v0.0.4
 
 [compare changes](https://github.com/huang-julien/applicationinsights-esm/compare/v0.0.3...v0.0.4)
