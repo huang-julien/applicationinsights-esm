@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.6
+
+[compare changes](https://github.com/huang-julien/applicationinsights-esm/compare/v0.0.5...v0.0.6)
+
+### 🩹 Fixes
+
+- CjsBridge ([7b20f4b](https://github.com/huang-julien/applicationinsights-esm/commit/7b20f4b))
+
+### ❤️ Contributors
+
+- Julien Huang ([@huang-julien](http://github.com/huang-julien))
+
 ## v0.0.5
 
 [compare changes](https://github.com/huang-julien/applicationinsights-esm/compare/v0.0.4...v0.0.5)
