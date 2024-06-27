@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/huang-julien/applicationinsights-esm/compare/v0.0.3...v0.0.4)
+
+### 🩹 Fixes
+
+- Replace string_decoder ([9b030fb](https://github.com/huang-julien/applicationinsights-esm/commit/9b030fb))
+
+### 🏡 Chore
+
+- Apply automated updates ([a2c677b](https://github.com/huang-julien/applicationinsights-esm/commit/a2c677b))
+
+### ❤️ Contributors
+
+- Julien Huang ([@huang-julien](http://github.com/huang-julien))
+
 ## v0.0.3
 
 [compare changes](https://github.com/huang-julien/applicationinsights-esm/compare/v0.0.2...v0.0.3)
