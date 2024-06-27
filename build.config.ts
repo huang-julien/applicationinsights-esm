@@ -3,8 +3,8 @@ import type { Plugin } from "rollup";
 export default defineBuildConfig({
   declaration: false,
   hooks: {
-    'rollup:options': (ctx, options ) => {
-        options.plugins!.push(
+    'rollup:options': (_, options) => {
+        (options.plugins as Plugin[]).push(
             {
                 name: 'replace',
                 generateBundle(_options, outputBundle) {
@@ -29,6 +29,6 @@ export default defineBuildConfig({
           useDefineForClassFields: false,
         },
       },
-    },
+    }
   }
 });

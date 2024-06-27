@@ -33,7 +33,7 @@
   "devDependencies": {
     "@types/node": "^20.12.7",
     "@vitest/coverage-v8": "^1.5.3",
-    "applicationinsights": "^3.1.0",
+    "applicationinsights": "^2.9.5",
     "automd": "^0.3.7",
     "changelogen": "^0.5.5",
     "eslint": "^9.1.1",
