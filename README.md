@@ -76,11 +76,11 @@ import {} from "https://esm.sh/pkg";
 
 <!-- automd:contributors license=MIT -->
 
-Published under the [MIT](https://github.com/unjs/applicationinsights-esm/blob/main/LICENSE) license.
-Made by [community](https://github.com/unjs/applicationinsights-esm/graphs/contributors) 💛
+Published under the [MIT](https://github.com/huang-julien/applicationinsights-esm/blob/main/LICENSE) license.
+Made by [community](https://github.com/huang-julien/applicationinsights-esm/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/unjs/applicationinsights-esm/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=unjs/applicationinsights-esm" />
+<a href="https://github.com/huang-julien/applicationinsights-esm/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=huang-julien/applicationinsights-esm" />
 </a>
 
 <!-- /automd -->
