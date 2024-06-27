@@ -1,8 +1,22 @@
 import { defineBuildConfig } from "unbuild";
-
+import type { Plugin } from "rollup";
 export default defineBuildConfig({
   declaration: false,
+  hooks: {
+    'rollup:options': (ctx, options ) => {
+        options.plugins!.push(
+            {
+                name: 'replace',
+                generateBundle(_options, outputBundle) {
+                    // @ts-expect-error
+                    outputBundle['index.mjs'].code = outputBundle['index.mjs'].code.replaceAll('string_decoder/', 'node:string_decoder')
+             }
+            } as Plugin 
+        )
+    }
+  },
   rollup: {
+    
     emitCJS: false,
     inlineDependencies: true,
     output: {
